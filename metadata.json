@@ -1,0 +1,6 @@
+{
+  "name": "harsh_disgn - Editorial Documentary Thumbnail Design",
+  "description": "Premium, serious documentary thumbnail design for YouTube creators, filmmakers, and media channels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
